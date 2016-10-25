@@ -1,0 +1,16 @@
+RELEASE = false
+DEBUG = false
+
+RUNNING = false
+
+CAMERA_SPEED = 10
+
+CANVAS_WIDTH = 1280
+CANVAS_HEIGHT = 720
+SCALE = 2
+
+CANVAS_SCALE_X = love.graphics.getWidth() / CANVAS_WIDTH
+CANVAS_SCALE_Y = love.graphics.getHeight() / CANVAS_HEIGHT
+
+CANVAS_OFFSET_X = 0
+CANVAS_OFFSET_Y = 0
