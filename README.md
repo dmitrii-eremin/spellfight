@@ -1,9 +1,9 @@
 # Spellfight
 
-It's a game about fight of two wizards. Spellfight.  
+It's a game about fight of two wizards. Spellfight.
 Was written in two days, so the code is ugly, but the game is finished!
 
-![](screenshots/6.png)
+![](screenshots/animated.gif)
 
 ## Controls
 * Player 1:
